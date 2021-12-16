@@ -1,5 +1,9 @@
 # Rule-based Customer Segmentation
 
+
+![Customer-Segmentation-Featured-Image-3](https://user-images.githubusercontent.com/82150888/146342789-7bd5fb2c-4e0c-43d1-8b25-76f0d95a9fe1.png)
+
+
 ## Business Problem
 A game company wants to create level-based new customer definitions (personas) by using some features of its customers, and to create segments according to these new customer definitions and to estimate how much the new customers can earn on average according to these segments.
 
